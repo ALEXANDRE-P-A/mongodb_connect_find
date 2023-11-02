@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
+  "engines": {
+    "node": ">=18.18.0 <21.1.0"
+  },
   "scripts": {
     "build": "npm install",
     "start": "node app.js"
